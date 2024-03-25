@@ -1,6 +1,6 @@
 # Back_Hunger.com
 
-Front_Hunger.com é a interface de um restaurante baseada no modelo de API REST. Através desta plataforma, os usuários têm a capacidade de efetuar pedidos, acessar descrições detalhadas das refeições, visualizar tags que caracterizam os pratos e utilizá-las como parâmetros para encontrar pratos similares. Os administradores têm controle total sobre a adição, remoção e edição das informações dos pratos. Além disso, o projeto é completamente responsivo, garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.
+Back_Hunger.com é a interface de um restaurante baseada no modelo de API REST. Através desta plataforma, os usuários têm a capacidade de efetuar pedidos, acessar descrições detalhadas das refeições, visualizar tags que caracterizam os pratos e utilizá-las como parâmetros para encontrar pratos similares. Os administradores têm controle total sobre a adição, remoção e edição das informações dos pratos. Além disso, o projeto é completamente responsivo, garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.
 
 ## Ferramentas
 
